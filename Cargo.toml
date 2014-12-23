@@ -1,0 +1,5 @@
+[package]
+
+name = "longest_line"
+version = "0.0.1"
+authors = ["Steve Klabnik <steve@steveklabnik.com>"]
